@@ -24,4 +24,6 @@ const fareDoubler = createFareMultiplier(2);
 //   return fare * 3;
 // };
 
+const fareTripler = createFareMultiplier(3);
+
 const fetchSpecifiedDrivers
